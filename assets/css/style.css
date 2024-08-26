@@ -1,4 +1,6 @@
-
+.text-justify{
+    text-align: justify;
+}
 span{
     color: #80ed99;
 }
