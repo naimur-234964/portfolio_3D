@@ -30,3 +30,30 @@ span{
 .main{
     background: #343a40;
 }
+
+/* .about_table ul li::after {
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    height: 1px;
+    background: linear-gradient(to left, transparent, #ffffff77, transparent);
+    content: '';
+    bottom: 0px;
+} */
+
+.bars{
+    height: 15px;
+    width: 100%;
+    background: #272c30;
+    border-radius: 20px;
+}
+
+.active-bars{
+    height: 100%;
+    background: #80ed99;
+    border-radius: 20px;
+}
+
+.skills ul li p{
+    color: #80ed99;
+}
